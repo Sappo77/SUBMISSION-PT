@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #f5f1e8; 
+    color: #4a3b32; 
+  }
+  a {
+    color: #4A3B32; 
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #8D6E63; 
+  }
+}
+
